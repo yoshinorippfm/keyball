@@ -1,5 +1,7 @@
 # Keyball39 ファームウェア
 
+※かみだいさん作成のファームウェアを微調整したもの
+
 [@d_kamiichi](https://twitter.com/d_kamiichi)の開発した Keyball39 のファームウェアです。
 
 https://user-images.githubusercontent.com/34639637/219548230-d1c8ee17-b649-48c8-97f4-8877bc62a3bd.mp4
